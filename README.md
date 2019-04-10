@@ -16,6 +16,10 @@ __Library Version:__ v1.0 (20170228)
 ## Dependencies
 On jPi4J and the pi4j jar files (core, device, gpio-extension, service) - ensure these are located in the B4J additional libraries folder.
 
+## Install
+Copy the files from the archive folder Library to the B4J additional libraries folder.
+_Note:_ if newer files already exists in the B4J additional libraries folder, then do NOT overwrite.
+
 ## Prototype with Clock Example
 ```
 Wiring used:
