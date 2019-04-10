@@ -13,6 +13,9 @@ __Library Version:__ v1.0 (20170228)
 * jTM1637.zip contains the library and sample projects
 * jTM1637.pdf manual 
 
+## Dependencies
+On jPi4J and the pi4j jar files (core, device, gpio-extension, service) - ensure these are located in the B4J additional libraries folder.
+
 ## Prototype with Clock Example
 ```
 Wiring used:
