@@ -7,6 +7,8 @@ The file attached contains the library source, library jar&xml, examples basic f
 The library is written in B4J (requires v5.80 or higher) making use of Inline Java (requires Java 8 update 40 or higher).
 [B4J](https://www.b4x.com/b4j.html) development tool for cross platform desktop, server and IoT solutions by [Anywhere Software](https://www.b4x.com). 
 
+The library has been created for **personal use**  only. If planned for commercial use, ensure to comply to the [Oracle JDK License Agreement](https://www.oracle.com/technetwork/java/javase/terms/license/javase-license.html). 
+
 __Library Version:__ v1.0 (20170228)
 
 ## Files
